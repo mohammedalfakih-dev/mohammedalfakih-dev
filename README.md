@@ -1,18 +1,20 @@
 <div align="center">
 
-# Mohammed Al-Fakih
+<h1>Mohammed Al-Fakih</h1>
 
-### Aspiring Software Developer | Hack Your Future Student
+<h3>Aspiring Software Developer · Hack Your Future Student</h3>
+
+<p><strong>aka Zeus ⚡</strong></p>
 
 <p>
   <a href="https://github.com/mohammedalfakih-dev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://nl.linkedin.com/in/mohammed-alfakih-51922635a">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR.EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-4B0082?style=flat&logo=gmail&logoColor=white" />
+  <a href="mailto:mohammedalfakih23@gmail.com">
+    <img src="https://img.shields.io/badge/Email-5A189A?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -20,61 +22,63 @@
 
 ---
 
-## About Me
+## ⚡ About Me
 
-I am an aspiring software developer currently studying in the **Hack Your Future** program (starting **January 7, 2026**).  
-I am focused on building a strong foundation in web development, with a particular interest in **JavaScript** and problem-solving through code.
+I am an aspiring software developer currently enrolled in the **Hack Your Future** program, starting **January 7, 2026**.
 
-I value clean code, continuous learning, and steady progress through hands-on practice.
+I am focused on building strong fundamentals in modern web development, with a particular interest in **JavaScript** and logical problem-solving. I enjoy breaking down problems, experimenting with code, and improving through consistent hands-on practice.
+
+My mindset is simple: build solid foundations first, then grow fast and sustainably.
 
 ---
 
-## Tech Stack
+## ⚙️ Tech Stack
 
-**Languages & Technologies**
+**Languages**
 - HTML
 - CSS
-- JavaScript
+- JavaScript ⚡
 
-**Tools & Workflow**
-- Git & GitHub
-- VS Code
+**Tools**
+- Git & GitHub  
+- VS Code  
 - Command Line Interface (CLI)
 
-> Currently strengthening my skills through daily practice, assignments, and small projects as part of Hack Your Future.
+> Actively practicing and strengthening these skills through assignments, challenges, and personal experimentation.
 
 ---
 
-## Projects
+## ⚡ Learning & Practice
 
-At this stage, my work focuses on practice-based projects and technical assignments, including:
-- JavaScript logic exercises
+Currently focused on:
+- JavaScript fundamentals and core concepts
+- Logical thinking and problem-solving
 - Small interactive components
-- Admission assignments for Hack Your Future
+- Improving workflow with Git and GitHub
 
-More structured projects will be added as I progress through the program.
-
----
-
-## Goals
-
-- Build a solid understanding of modern web development
-- Improve problem-solving skills using JavaScript
-- Contribute to collaborative projects
-- Grow into a professional software development role
+More structured and advanced projects will be added as I progress through Hack Your Future.
 
 ---
 
-## Contact
+## 🎯 Goals
 
-- GitHub: [mohammedalfakih-dev](https://github.com/mohammedalfakih-dev)
-- LinkedIn: _(add link)_
-- Email: _(add email)_
+- Build a strong and reliable foundation in web development  
+- Deepen my JavaScript knowledge and confidence  
+- Learn how to collaborate effectively in team environments  
+- Prepare for a professional role in the tech industry  
+
+---
+
+## 🔗 Connect With Me
+
+- GitHub: https://github.com/mohammedalfakih-dev  
+- LinkedIn: https://nl.linkedin.com/in/mohammed-alfakih-51922635a  
+- Email: mohammedalfakih23@gmail.com  
 
 ---
 
 <div align="center">
 
-<sub>Learning. Building. Improving.</sub>
+<sub>⚡ Build with focus. Learn with purpose. Grow consistently.</sub>
 
 </div>
