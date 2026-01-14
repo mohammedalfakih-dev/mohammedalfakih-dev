@@ -1,9 +1,8 @@
 <div align="center">
 
-<!-- Animated Title -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7B2CBF&center=true&vCenter=true&width=500&lines=Mohammed+Al-Fakih;Aspiring+Software+Developer;aka+Zeus+⚡" alt="Typing SVG" />
-
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=7B2CBF&center=true&vCenter=true&width=550&lines=Mohammed+Al-Fakih;Aspiring+Software+Developer;aka+Zeus+⚡" />
+</p>
 
 <h3>Hack Your Future Student · Software Development</h3>
 
@@ -29,6 +28,8 @@ I am an aspiring software developer currently enrolled in the **Hack Your Future
 
 I focus on building strong fundamentals in modern web development, with a particular interest in **JavaScript** and logical problem-solving. I enjoy breaking down problems and improving through consistent hands-on practice.
 
+My mindset is simple: build solid foundations first, then grow with confidence.
+
 ---
 
 ## ⚙️ Tech Stack
@@ -47,15 +48,10 @@ I focus on building strong fundamentals in modern web development, with a partic
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedalfakih-dev&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-
-<!-- Streaks -->
-<img src="https://streak-stats.demolab.com?user=mohammedalfakih-dev&theme=tokyonight&hide_border=true" height="160" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedalfakih-dev&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://streak-stats.demolab.com?user=mohammedalfakih-dev&theme=tokyonight&hide_border=true" height="160" />
+</p>
 
 ---
 
@@ -91,4 +87,3 @@ Currently focused on:
 <sub>⚡ Build with focus. Learn with purpose. Grow consistently.</sub>
 
 </div>
-
