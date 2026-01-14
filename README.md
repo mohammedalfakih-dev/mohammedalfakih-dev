@@ -1,8 +1,12 @@
 <div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=7B2CBF&center=true&vCenter=true&width=550&lines=Mohammed+Al-Fakih;Aspiring+Software+Developer;aka+Zeus+⚡" />
-</p>
+<!-- Animated Title -->
+<img 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=7B2CBF&center=true&vCenter=true&width=600&lines=Mohammed+Al-Fakih;Aspiring+Software+Developer;aka+Zeus+⚡" 
+  alt="Typing SVG" 
+/>
+
+<br/>
 
 <h3>Hack Your Future Student · Software Development</h3>
 
@@ -28,49 +32,58 @@ I am an aspiring software developer currently enrolled in the **Hack Your Future
 
 I focus on building strong fundamentals in modern web development, with a particular interest in **JavaScript** and logical problem-solving. I enjoy breaking down problems and improving through consistent hands-on practice.
 
-My mindset is simple: build solid foundations first, then grow with confidence.
-
 ---
 
 ## ⚙️ Tech Stack
 
 **Languages**
-- HTML
-- CSS
-- JavaScript ⚡
+- HTML  
+- CSS  
+- JavaScript ⚡  
 
 **Tools**
 - Git & GitHub  
 - VS Code  
-- Command Line Interface (CLI)
+- Command Line Interface (CLI)  
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedalfakih-dev&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://streak-stats.demolab.com?user=mohammedalfakih-dev&theme=tokyonight&hide_border=true" height="160" />
-</p>
+<div align="center">
+
+<!-- Top Languages -->
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedalfakih-dev&layout=compact&theme=tokyonight&hide_border=true" 
+  height="165"
+/>
+
+<!-- GitHub Streak -->
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedalfakih-dev&theme=tokyonight&hide_border=true" 
+  height="165"
+/>
+
+</div>
 
 ---
 
 ## ⚡ Learning & Practice
 
 Currently focused on:
-- JavaScript fundamentals and core concepts
-- Logical thinking and problem-solving
-- Small interactive components
-- Improving workflow with Git and GitHub
+- JavaScript fundamentals  
+- Logical thinking and problem-solving  
+- Small interactive components  
+- Git & GitHub workflow  
 
 ---
 
 ## 🎯 Goals
 
-- Build a strong foundation in web development  
-- Deepen JavaScript knowledge and confidence  
-- Collaborate effectively in team environments  
-- Prepare for a professional role in the tech industry  
+- Build strong web development fundamentals  
+- Grow confidence with JavaScript  
+- Collaborate effectively in teams  
+- Prepare for a professional tech career  
 
 ---
 
@@ -84,6 +97,6 @@ Currently focused on:
 
 <div align="center">
 
-<sub>⚡ Build with focus. Learn with purpose. Grow consistently.</sub>
+<sub>⚡ Build with focus · Learn with purpose · Grow consistently</sub>
 
 </div>
