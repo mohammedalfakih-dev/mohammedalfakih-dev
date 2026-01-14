@@ -1,10 +1,11 @@
 <div align="center">
 
-<h1>Mohammed Al-Fakih</h1>
+<!-- Animated Title -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7B2CBF&center=true&vCenter=true&width=500&lines=Mohammed+Al-Fakih;Aspiring+Software+Developer;aka+Zeus+⚡" alt="Typing SVG" />
 
-<h3>Aspiring Software Developer · Hack Your Future Student</h3>
+<br/>
 
-<p><strong>aka Zeus ⚡</strong></p>
+<h3>Hack Your Future Student · Software Development</h3>
 
 <p>
   <a href="https://github.com/mohammedalfakih-dev">
@@ -26,9 +27,7 @@
 
 I am an aspiring software developer currently enrolled in the **Hack Your Future** program, starting **January 7, 2026**.
 
-I am focused on building strong fundamentals in modern web development, with a particular interest in **JavaScript** and logical problem-solving. I enjoy breaking down problems, experimenting with code, and improving through consistent hands-on practice.
-
-My mindset is simple: build solid foundations first, then grow fast and sustainably.
+I focus on building strong fundamentals in modern web development, with a particular interest in **JavaScript** and logical problem-solving. I enjoy breaking down problems and improving through consistent hands-on practice.
 
 ---
 
@@ -44,7 +43,19 @@ My mindset is simple: build solid foundations first, then grow fast and sustaina
 - VS Code  
 - Command Line Interface (CLI)
 
-> Actively practicing and strengthening these skills through assignments, challenges, and personal experimentation.
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedalfakih-dev&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+
+<!-- Streaks -->
+<img src="https://streak-stats.demolab.com?user=mohammedalfakih-dev&theme=tokyonight&hide_border=true" height="160" />
+
+</div>
 
 ---
 
@@ -56,15 +67,13 @@ Currently focused on:
 - Small interactive components
 - Improving workflow with Git and GitHub
 
-More structured and advanced projects will be added as I progress through Hack Your Future.
-
 ---
 
 ## 🎯 Goals
 
-- Build a strong and reliable foundation in web development  
-- Deepen my JavaScript knowledge and confidence  
-- Learn how to collaborate effectively in team environments  
+- Build a strong foundation in web development  
+- Deepen JavaScript knowledge and confidence  
+- Collaborate effectively in team environments  
 - Prepare for a professional role in the tech industry  
 
 ---
@@ -82,3 +91,4 @@ More structured and advanced projects will be added as I progress through Hack Y
 <sub>⚡ Build with focus. Learn with purpose. Grow consistently.</sub>
 
 </div>
+
