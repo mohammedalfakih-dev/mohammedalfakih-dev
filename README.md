@@ -58,11 +58,6 @@ I focus on building strong fundamentals in modern web development, with a partic
   height="165"
 />
 
-<!-- GitHub Streak -->
-<img 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedalfakih-dev&theme=tokyonight&hide_border=true" 
-  height="165"
-/>
 
 </div>
 
