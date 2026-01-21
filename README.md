@@ -59,12 +59,8 @@ Command Line Interface (CLI)
   height="165"
 />
 
-<!-- GitHub Streak -->
-<img
-  src="https://streak-stats.demolab.io/?user=mohammedalfakih-dev&theme=tokyonight&hide_border=true"
-  height="165"
-  alt="GitHub Streak"
-/>
+<!-- GitHub Streak (Vercel) -->
+![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=mohammedalfakih-dev&theme=%7B%22backgroundColor%22%3A%22%23581c87%22%2C%22textColor%22%3A%22%23f3e8ff%22%2C%22accentColor%22%3A%22%23a855f7%22%2C%22borderColor%22%3A%22%237c3aed%22%2C%22waterColor%22%3A%22%23a855f7%22%2C%22streakColor%22%3A%22%23c084fc%22%7D)
 
 </div>
 
