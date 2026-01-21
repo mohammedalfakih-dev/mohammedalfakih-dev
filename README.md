@@ -61,7 +61,7 @@ Command Line Interface (CLI)
 
 <!-- GitHub Streak -->
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedalfakih-dev&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+  src="https://streak-stats.demolab.io/?user=mohammedalfakih-dev&theme=tokyonight&hide_border=true"
   height="165"
   alt="GitHub Streak"
 />
