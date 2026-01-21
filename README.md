@@ -1,9 +1,10 @@
+
 <div align="center">
 
 <!-- Animated Title -->
-<img 
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=7B2CBF&center=true&vCenter=true&width=600&lines=Mohammed+Al-Fakih;Aspiring+Software+Developer;aka+Zeus+⚡" 
-  alt="Typing SVG" 
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=7B2CBF&center=true&vCenter=true&width=600&lines=Mohammed+Al-Fakih;Aspiring+Software+Developer;aka+Zeus+⚡"
+  alt="Typing SVG"
 />
 
 <br/>
@@ -26,7 +27,7 @@
 
 ---
 
-## ⚡ About Me
+## :zap: About Me
 
 I am an aspiring software developer currently enrolled in the **Hack Your Future** program, starting **January 7, 2026**.
 
@@ -34,64 +35,70 @@ I focus on building strong fundamentals in modern web development, with a partic
 
 ---
 
-## ⚙️ Tech Stack
+## :gear: Tech Stack
 
 **Languages**
-- HTML  
-- CSS  
-- JavaScript ⚡  
+HTML
+CSS
+JavaScript :zap:
 
 **Tools**
-- Git & GitHub  
-- VS Code  
-- Command Line Interface (CLI)  
+Git & GitHub
+VS Code
+Command Line Interface (CLI)
 
 ---
 
-## 📊 GitHub Stats
+## :bar_chart: GitHub Stats
 
 <div align="center">
 
 <!-- Top Languages -->
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedalfakih-dev&layout=compact&theme=tokyonight&hide_border=true" 
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedalfakih-dev&layout=compact&theme=tokyonight&hide_border=true"
   height="165"
 />
 
+<!-- GitHub Streak -->
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedalfakih-dev&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+  height="165"
+  alt="GitHub Streak"
+/>
 
 </div>
 
 ---
 
-## ⚡ Learning & Practice
+## :zap: Learning & Practice
 
 Currently focused on:
-- JavaScript fundamentals  
-- Logical thinking and problem-solving  
-- Small interactive components  
-- Git & GitHub workflow  
+JavaScript fundamentals
+Logical thinking and problem-solving
+Small interactive components
+Git & GitHub workflow
 
 ---
 
-## 🎯 Goals
+## :dart: Goals
 
-- Build strong web development fundamentals  
-- Grow confidence with JavaScript  
-- Collaborate effectively in teams  
-- Prepare for a professional tech career  
+Build strong web development fundamentals
+Grow confidence with JavaScript
+Collaborate effectively in teams
+Prepare for a professional tech career
 
 ---
 
-## 🔗 Connect With Me
+## :link: Connect With Me
 
-- GitHub: https://github.com/mohammedalfakih-dev  
-- LinkedIn: https://nl.linkedin.com/in/mohammed-alfakih-51922635a  
-- Email: mohammedalfakih23@gmail.com  
+GitHub: https://github.com/mohammedalfakih-dev
+LinkedIn: https://nl.linkedin.com/in/mohammed-alfakih-51922635a
+Email: mohammedalfakih23@gmail.com
 
 ---
 
 <div align="center">
 
-<sub>⚡ Build with focus · Learn with purpose · Grow consistently</sub>
+<sub>:zap: Build with focus · Learn with purpose · Grow consistently</sub>
 
 </div>
