@@ -1,100 +1,102 @@
-
 <div align="center">
 
-<!-- Animated Title -->
-<img
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=7B2CBF&center=true&vCenter=true&width=600&lines=Mohammed+Al-Fakih;Aspiring+Software+Developer;aka+Zeus+⚡"
-  alt="Typing SVG"
-/>
+<h1>Mohammed Al-Fakih</h1>
 
-<br/>
-
-<h3>Hack Your Future Student · Software Development</h3>
+<h3>Junior Data Engineer · AI Student at VU Amsterdam</h3>
 
 <p>
-  <a href="https://github.com/mohammedalfakih-dev">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat&logo=github&logoColor=white" />
-  </a>
-  <a href="https://nl.linkedin.com/in/mohammed-alfakih-51922635a">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  Building reliable data pipelines, cloud systems, and intelligent solutions.
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/mohammed-alfakih-51922635a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mohammedalfakih23@gmail.com">
-    <img src="https://img.shields.io/badge/Email-5A189A?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Say%20hello-7C3AED?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=mohammedalfakih-dev&label=Profile%20views&color=7C3AED&style=flat-square" alt="Profile views" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Open%20to-Part--time%20%26%20student%20roles-2EA44F?style=flat-square" alt="Open to part-time and student roles" />
+  <img src="https://img.shields.io/badge/Based%20in-Amsterdam-24292F?style=flat-square&logo=googlemaps&logoColor=white" alt="Based in Amsterdam" />
 </p>
 
 </div>
 
----
+## About me
 
-## :zap: About Me
+I'm a junior data engineer based in Amsterdam. I build dependable data systems and enjoy working across the complete lifecycle—from API ingestion and validation to transformation, storage, orchestration, and cloud delivery.
 
-I am an aspiring software developer currently enrolled in the **Hack Your Future** program, starting **January 7, 2026**.
+- 🎓 **HackYourFuture Data Engineering · Class of 2026**
+- 🧠 Studying **Artificial Intelligence at Vrije Universiteit Amsterdam**
+- ⚙️ Interested in data engineering, analytics engineering, backend systems, and applied AI
+- 🌍 Available for work in **Amsterdam, hybrid, or remote**
+- 💼 Looking for a **part-time or student position** related to data, software, or AI
+- ⚡ I also build under the name **Zeus**—a reminder to bring energy, curiosity, and focus to my work
 
-I focus on building strong fundamentals in modern web development, with a particular interest in **JavaScript** and logical problem-solving. I enjoy breaking down problems and improving through consistent hands-on practice.
+## Tech stack
 
----
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
 
-## :gear: Tech Stack
+## Featured projects
 
-**Languages**
-HTML
-CSS
-JavaScript :zap:
+### [Dutch Bike Weather Pipeline](https://github.com/mohammedalfakih-dev/dutch-bike-weather-pipeline)
 
-**Tools**
-Git & GitHub
-VS Code
-Command Line Interface (CLI)
+A production-style pipeline that collects hourly weather forecasts for five Dutch cities, validates the data with Pydantic, transforms it with pandas, and delivers it to Azure Postgres and Blob Storage.
 
----
+The project is containerized with Docker and tested and deployed through GitHub Actions.
 
-## :bar_chart: GitHub Stats
+`Python` · `Pydantic` · `pandas` · `PostgreSQL` · `Azure` · `Docker` · `CI/CD`
+
+### [Databricks Lakehouse Project](https://github.com/mohammedalfakih-dev/c55-data-week-13)
+
+A modern lakehouse workflow combining PySpark data exploration, dbt incremental models on Delta Lake, and Git-backed Databricks job scheduling.
+
+`PySpark` · `dbt` · `Delta Lake` · `Databricks` · `Data orchestration`
+
+## Open to opportunities
+
+I'm looking for a team where I can contribute while studying and continue developing professional experience.
+
+I'm particularly interested in:
+
+- Data engineering
+- Analytics engineering
+- Python and backend development
+- Data platforms and cloud infrastructure
+- AI and machine-learning-adjacent roles
+
+I'm available for **part-time and student opportunities** in Amsterdam, hybrid, or remote.
+
+## Live GitHub activity
 
 <div align="center">
 
-<!-- Top Languages -->
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedalfakih-dev&layout=compact&theme=tokyonight&hide_border=true"
-  height="165"
-/>
-
-<!-- GitHub Streak (Vercel) -->
-![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=mohammedalfakih-dev&theme=%7B%22backgroundColor%22%3A%22%23581c87%22%2C%22textColor%22%3A%22%23f3e8ff%22%2C%22accentColor%22%3A%22%23a855f7%22%2C%22borderColor%22%3A%22%237c3aed%22%2C%22waterColor%22%3A%22%23a855f7%22%2C%22streakColor%22%3A%22%23c084fc%22%7D)
+<a href="https://github.com/mohammedalfakih-dev">
+  <img src="https://streak-stats.demolab.com?user=mohammedalfakih-dev&theme=transparent&hide_border=true&ring=7C3AED&fire=F59E0B&currStreakLabel=7C3AED" alt="Mohammed's live GitHub activity" />
+</a>
 
 </div>
 
 ---
 
-## :zap: Learning & Practice
-
-Currently focused on:
-JavaScript fundamentals
-Logical thinking and problem-solving
-Small interactive components
-Git & GitHub workflow
-
----
-
-## :dart: Goals
-
-Build strong web development fundamentals
-Grow confidence with JavaScript
-Collaborate effectively in teams
-Prepare for a professional tech career
-
----
-
-## :link: Connect With Me
-
-GitHub: https://github.com/mohammedalfakih-dev
-LinkedIn: https://nl.linkedin.com/in/mohammed-alfakih-51922635a
-Email: mohammedalfakih23@gmail.com
-
----
-
 <div align="center">
 
-<sub>:zap: Build with focus · Learn with purpose · Grow consistently</sub>
+<sub><strong>Zeus ⚡</strong> · Build with focus · Learn with purpose · Ship what matters</sub>
 
 </div>
