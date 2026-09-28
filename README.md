@@ -63,12 +63,6 @@ The project is containerized with Docker and tested and deployed through GitHub 
 
 `Python` · `Pydantic` · `pandas` · `PostgreSQL` · `Azure` · `Docker` · `CI/CD`
 
-### [Databricks Lakehouse Project](https://github.com/mohammedalfakih-dev/c55-data-week-13)
-
-A modern lakehouse workflow combining PySpark data exploration, dbt incremental models on Delta Lake, and Git-backed Databricks job scheduling.
-
-`PySpark` · `dbt` · `Delta Lake` · `Databricks` · `Data orchestration`
-
 ## Open to opportunities
 
 I'm looking for a team where I can contribute while studying and continue developing professional experience.
